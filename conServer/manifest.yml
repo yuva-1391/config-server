@@ -1,0 +1,7 @@
+---
+applications:
+- name: conServer
+  path: target/conServer-0.0.1-SNAPSHOT.jar
+  domain: cfapps.io
+  memory: 1G
+  instances: 1
