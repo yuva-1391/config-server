@@ -5,3 +5,5 @@ applications:
   domain: cfapps.io
   memory: 1G
   instances: 1
+  services:  
+  - config-server-pcf
